@@ -1,0 +1,32 @@
+h3 {
+	text-decoration: underline;
+	padding: 0px 0px 0px 20px;
+	width: 85px;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+h1 {
+	background-color: #77CBA3;
+	border: 3px solid black;
+	width: 50%;
+	margin-left: 25%; 
+	display: inline-block;
+	border-radius: 25px;
+	text-align: center;
+}
+
+html {
+	background-color: rgba(255,221,175, 0.4);
+}
+
+h3:hover {
+	color: red;
+}
+
+body {
+	font-family: 'Sriracha', cursive;
+
+}
